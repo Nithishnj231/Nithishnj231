@@ -1,7 +1,10 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Nithish_S_J**
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/Nithish-S-J)
 
 <!--
-**Nithishnj231/Nithishnj231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nithish-S-J/Nithish-S-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
