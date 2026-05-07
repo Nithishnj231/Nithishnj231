@@ -17,7 +17,12 @@
 <img src="https://img.shields.io/badge/Microsoft_Fabric-4B53BC?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </div>
+# Sales Ops & CRM Tech Stack
 
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+<img src="https://img.shields.io/badge/Pipedrive-223645?style=for-the-badge&logo=pipedrive&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoho-316FF6?style=for-the-badge&logo=zoho&logoColor=white" />
+<img src="https://img.shields.io/badge/Apollo.io-FF6D00?style=for-the-badge&logo=rocket&logoColor=white" />
 
 <!--
 **Nithish-S-J/Nithish-S-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
